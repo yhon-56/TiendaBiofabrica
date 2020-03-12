@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Entities;
+using BusinnessLayer;
 
 namespace AplicationLayer
 {
@@ -78,6 +79,15 @@ namespace AplicationLayer
 
         private void btnguardar_Click(object sender, EventArgs e)
         {
+
+        }
+
+        private void btnnuevo_Click(object sender, EventArgs e)
+        {
+            if (ClientesNegocio.ProbarConexion() == true)
+            {
+                MessageBox.Show("conexion Exitosa");
+            }
 
         }
     }

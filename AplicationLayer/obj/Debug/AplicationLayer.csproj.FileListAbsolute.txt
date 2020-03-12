@@ -20,3 +20,14 @@ C:\Users\ADSI\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationL
 C:\Users\ADSI\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\bin\Debug\AplicationLayer.pdb
 C:\Users\ADSI\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\bin\Debug\Entities.dll
 C:\Users\ADSI\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\bin\Debug\Entities.pdb
+C:\Users\ADSI\Documents\TiendaBiofabrica\AplicationLayer\bin\Debug\AplicationLayer.exe.config
+C:\Users\ADSI\Documents\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.exe
+C:\Users\ADSI\Documents\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.pdb
+C:\Users\ADSI\Documents\TiendaBiofabrica\AplicationLayer\bin\Debug\AplicationLayer.exe
+C:\Users\ADSI\Documents\TiendaBiofabrica\AplicationLayer\bin\Debug\AplicationLayer.pdb
+C:\Users\ADSI\Documents\TiendaBiofabrica\AplicationLayer\bin\Debug\Entities.dll
+C:\Users\ADSI\Documents\TiendaBiofabrica\AplicationLayer\bin\Debug\Entities.pdb
+C:\Users\ADSI\Documents\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.csprojResolveAssemblyReference.cache
+C:\Users\ADSI\Documents\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.frmClientes.resources
+C:\Users\ADSI\Documents\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.Properties.Resources.resources
+C:\Users\ADSI\Documents\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.csproj.GenerateResource.Cache

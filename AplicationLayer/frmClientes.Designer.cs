@@ -208,6 +208,7 @@
             this.btnnuevo.Text = "NUEVO";
             this.btnnuevo.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnnuevo.UseVisualStyleBackColor = true;
+            this.btnnuevo.Click += new System.EventHandler(this.btnnuevo_Click);
             // 
             // btnsalir
             // 
